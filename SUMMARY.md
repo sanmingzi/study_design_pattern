@@ -2,11 +2,11 @@
 
 ## 简单工厂模式 (Simple Factory Pattern)
 
-## 策略模式
+## 策略模式 (Strategy)
 
 ## 单一职责原则
 
-## 开放-封闭原则
+## 开放-封闭原则 (The Open-Closed Principle)
 
 ## 依赖倒转。。。
 
