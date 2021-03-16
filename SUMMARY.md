@@ -9,11 +9,17 @@
 
 ## 23 种设计模式
 
-- [单例模式](singleton/singleton.md)
+- 建立物件
+  - [单例模式](singleton/singleton.md)
+- 结构相关
+  - [代理模式](proxy/proxy.md)
+- 行为相关
+  - [迭代器模式](iterator/iterator.md)
+
+
 - 简单工厂模式 (Simple Factory Pattern)
 - 策略模式 (Strategy)
 - 装饰模式
-- 代理模式
 - 工厂方法模式
 - 原型模式
 - 模板方法模式
@@ -25,7 +31,7 @@
 - 适配器模式
 - 备忘录模式
 - 组合模式
-- 迭代器模式
+
 - 桥接模式
 - 命令模式
 - 职责链模式
